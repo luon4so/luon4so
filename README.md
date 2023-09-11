@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NamSon</h1>
-<h3 align="center">A passionate researcher from VietNam</h3>
+//<h3 align="center"></h3> 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/A18Em1XffR4AAAAd/bocchi-the-rock-anime.gif">
 
 - 🔭 I’m currently working on **Sensor and Control System**
