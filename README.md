@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Control Engineering and Automation**
 
-- 💬 Ask me about **Matlab, C**
+- 💬 Ask me about **Matlab, C, Python**
 
-- 📫 How to reach me **luonaso02@gmail.com**
+- 📫 How to reach me **nosman.luong@gmail.com**
 
-- ⚡ Fun fact **I have crippling depression**
+- ⚡ Fun fact **I am very good at gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
